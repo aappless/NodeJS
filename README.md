@@ -4,6 +4,6 @@ Learn NODE JS
 
 1.git add --all 或 是 git add "httpserver.js"
 
-2.git commit -m "httpserver.js"
+2.git commit -m "httpserver.js" , git commit -m --all
 
 3.git push
