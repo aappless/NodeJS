@@ -31,18 +31,27 @@ https://tortoisegit.org/download/
 4.然後就可以 在這個目錄下 寫程式 在index.js (要自已寫啦...COPY其他人的也可以喔)
 
 --例如以下程式碼-------------------------
+
 var express = require('express');
+
 var app = express();
 
+
 app.get('/', function (req, res) {
+
    res.send('Hello World');
+   
 })
 
 var server = app.listen(8081, function () {
+
    var host = server.address().address
+   
    var port = server.address().port
    
+   
    console.log("Example app listening at http://%s:%s", host, port)
+   
 })
  -----------------------------------
  
