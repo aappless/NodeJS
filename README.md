@@ -54,7 +54,7 @@ var server = app.listen(8081, function () {
    
 })
  -----------------------------------
- 
+ 執行  >touch .gitignore 會產生 .gitignore 檔案 再編輯寫 就可以 設定不上傳的檔案
      
      
 
