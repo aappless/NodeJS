@@ -24,9 +24,9 @@ https://tortoisegit.org/download/
      
      以用預設值 (直接按下 ENTER)
      
-3.正式安裝套件 save it in the dependencies list
+3.正式安裝套件 save it in the dependencies list express 好像要小寫
 
-     NPM install EXPRESS --save
+      npm install express --save 
      
 4.然後就可以 在這個目錄下 寫程式 在index.js (要自已寫啦...COPY其他人的也可以喔)
 
