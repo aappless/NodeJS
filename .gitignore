@@ -1,0 +1,13 @@
+# Logs
+
+logs
+
+*.log
+#用這個就可以了 
+node_modules
+
+#以下這一個也可以
+/node_modules
+
+package.json
+package-lock.json
