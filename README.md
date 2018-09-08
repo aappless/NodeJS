@@ -61,6 +61,11 @@ var server = app.listen(8081, function () {
  DEBUG NDB 的安裝
  
  >npm install --global ndb
+ 
+ ------------
+ 補裝套件 時要 package.json
+>npm install
+ 
   
      
 
